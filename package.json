@@ -1,0 +1,11 @@
+{
+  "name": "com.mintakaseiran.shaderreplacer",
+  "version": "1.0.0",
+  "displayName": "Shader Replacer",
+  "description": "指定したフォルダ内のマテリアルに割り当てられているシェーダーを一括で置換・管理するエディタツールです。",
+  "unity": "2021.3",
+  "author": {
+    "name": "MintakaSeiran",
+    "url": "https://github.com/MintakaSeiran"
+  }
+}
