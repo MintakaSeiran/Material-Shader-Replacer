@@ -8,7 +8,7 @@
 
 Unityエディタの上部メニューバーから、 **Tools ＞ Shader Replacer** をクリックすると、専用の操作ウィンドウが開きます。
 
-<p align="center">
+
   <img width="323" height="323" alt="Shader Replacer" src="https://github.com/user-attachments/assets/8faa6dfb-7d06-4cd4-97a8-a7d7fb22108f" />
 </p>
 
@@ -37,13 +37,13 @@ Unityエディタの上部メニューバーから、 **Tools ＞ Shader Replace
 
 ---
 
-##  3. 便利な標準機能
+##  3. 標準機能
 
 ### プログレスバー & キャンセル機能
 大量のマテリアルが含まれる巨大なフォルダを指定した場合でも、処理の進捗がプログレスバーでリアルタイムに表示されます。Unityがフリーズするのを防ぐほか、途中で処理を安全に中断することも可能です。
 
-### 📘 安心の Undo（元に戻す）対応
+### Undo（元に戻す）対応
 万が一、誤ったフォルダやシェーダーを指定して一括置換を行ってしまった場合でも、キーボードの `Ctrl + Z`（Macは `Cmd + Z`）を押すことで、瞬時に置換前の状態に復元することができます。
 
 ---
-**Developer**: [MintakaSeiran](https://github.com/MintakaSeiran)
+
