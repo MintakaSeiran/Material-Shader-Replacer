@@ -42,6 +42,9 @@ Unityエディタの上部メニューバーから、 **Tools ＞ Shader Replace
 
 ### プログレスバー & キャンセル機能
 大量のマテリアルが含まれる巨大なフォルダを指定した場合でも、処理の進捗がプログレスバーでリアルタイムに表示されます。Unityがフリーズするのを防ぐほか、途中で処理を安全に中断することも可能です。
+<img width="507" height="90" alt="image" src="https://github.com/user-attachments/assets/34b7a640-73ea-4b82-9c84-83448012564a" />
+<img width="381" height="153" alt="image" src="https://github.com/user-attachments/assets/2babecc9-6d67-4320-90f3-e5fb74e76b93" />
+
 
 ### Undo（元に戻す）対応
 万が一、誤ったフォルダやシェーダーを指定して一括置換を行ってしまった場合でも、キーボードの `Ctrl + Z`（Macは `Cmd + Z`）を押すことで、瞬時に置換前の状態に復元することができます。
